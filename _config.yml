@@ -11,20 +11,11 @@ navbar-links:
    - PicoCTF
   Substack: "https://humanfriendoftheplants.substack.com/"
 
-
 social-network-links:
   rss: true
-  twitter: #
   github: inrainyclouds
 
 title-on-all-pages: true
-excerpt_length: 50
-feed_show_excerpt: true
-post_search: true
-
-exclude:
- - README.md
- - docs/
 
 plugins:
  - jekyll-paginate
